@@ -10,7 +10,7 @@ public class Exercicio05 {
             System.out.println("Emprestimo APROVADO");
         }
         else {
-        System.out.println("Emprestimo NEGADO");
+        System.out.println("Emprestimo NEGADO1");
         }
     }
 }
