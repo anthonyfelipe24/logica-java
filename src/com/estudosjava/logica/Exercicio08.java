@@ -25,5 +25,15 @@ public class Exercicio08 {
                    default:
                        System.out.println("operação inválida");
         }
+       /* int dia = 3;
+        String nomeDia;
+        switch (dia) {
+            case 1: nomeDia = "Segunda"; break;
+            case 2: nomeDia = "Terça"; break;
+            case 3: nomeDia = "Quarta"; break;
+            default: nomeDia = "Dia inválido";
+        }
+        System.out.println(nomeDia); // Saída: Quarta*/
+
     }
 }
