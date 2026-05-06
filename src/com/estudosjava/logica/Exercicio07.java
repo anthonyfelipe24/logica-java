@@ -5,7 +5,7 @@ package com.estudosjava.logica;
 public class Exercicio07 {
     public static void main(String[] args) {
         String tipoUsuario = "aluno";
-        int idade = 17;
+        int idade = 18;
 
         switch(tipoUsuario){
             case "admin":

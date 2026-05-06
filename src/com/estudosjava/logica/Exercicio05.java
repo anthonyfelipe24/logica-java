@@ -2,7 +2,7 @@ package com.estudosjava.logica;
 
 public class Exercicio05 {
     public static void main(String[] args) {
-        int idade = 17;
+        int idade = 18;
         double salario = 2700.0;
         boolean nomeLimpo = true;
         double valorEmprestimo = 10000;

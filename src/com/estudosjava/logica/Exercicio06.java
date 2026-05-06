@@ -2,7 +2,7 @@ package com.estudosjava.logica;
 
 public class Exercicio06 {
     public static void main(String[] args) {
-    int menu = 5;
+    int menu = 3;
     switch (menu){
         case 1:
             System.out.println("Cadastrar usuário");

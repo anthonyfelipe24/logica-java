@@ -3,7 +3,7 @@ package com.estudosjava.logica;
 public class Exercicio08 {
     public static void main(String[] args) {
         int numero1 = 2;
-        int numero2 = 3;
+        int numero2 = 5;
         String operacao = "+";
                switch(operacao){
                    case "+":
