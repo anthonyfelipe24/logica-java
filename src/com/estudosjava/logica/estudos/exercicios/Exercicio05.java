@@ -1,4 +1,4 @@
-package com.estudosjava.logica;
+package com.estudosjava.logica.estudos.exercicios;
 
 public class Exercicio05 {
     public static void main(String[] args) {

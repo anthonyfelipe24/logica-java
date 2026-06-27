@@ -1,4 +1,4 @@
-package com.estudosjava.logica;
+package com.estudosjava.logica.estudos.exercicios;
 
 //Misturando switch + if
 

@@ -1,4 +1,4 @@
-package com.estudosjava.logica;
+package com.estudosjava.logica.estudos.exercicios;
 
 public class Exercicio09 {
     /*🥇 Exercício 1 — FOR + IF

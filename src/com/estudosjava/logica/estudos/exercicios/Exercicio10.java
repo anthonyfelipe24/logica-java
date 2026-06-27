@@ -1,4 +1,4 @@
-package com.estudosjava.logica;
+package com.estudosjava.logica.estudos.exercicios;
 
 public class Exercicio10 {
     /*🥈 Exercício 2 — WHILE
