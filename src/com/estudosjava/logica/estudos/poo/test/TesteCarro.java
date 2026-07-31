@@ -1,6 +1,6 @@
-package com.estudosjava.logica.estudos.poo.testeCarro;
+package com.estudosjava.logica.estudos.poo.test;
 
-import com.estudosjava.logica.estudos.poo.Carro;
+import com.estudosjava.logica.estudos.poo.Aclasse.Carro;
 
 public class TesteCarro {
     public static void main(String[] args) {

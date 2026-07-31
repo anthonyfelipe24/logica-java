@@ -1,4 +1,4 @@
-package com.estudosjava.logica.estudos.poo;
+package com.estudosjava.logica.estudos.poo.Aclasse;
 public class Carro {
     public String marca;
     public String modelo;
